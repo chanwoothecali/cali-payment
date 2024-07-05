@@ -1,4 +1,4 @@
-package com.example.payment.payment.adpter.`in`.web.api
+package com.example.payment.payment.adpter.`in`.web.request
 
 data class TossPaymentRequestConfirm(
     val paymentKey: String,

@@ -1,6 +1,7 @@
 package com.example.payment.payment.adpter.`in`.web.api
 
 import com.example.payment.common.WebAdapter
+import com.example.payment.payment.adpter.`in`.web.request.TossPaymentRequestConfirm
 import com.example.payment.payment.adpter.out.web.executor.TossPaymentExecutor
 import com.example.payment.payment.adpter.out.web.response.ApiResponse
 import org.springframework.http.HttpStatus
