@@ -2,7 +2,7 @@ package com.example.payment.payment.domain
 
 import java.math.BigDecimal
 
-data class PaymentOrder(
+data class PaymentOrder (
     val id: Long? = null,
     val paymentEventId: Long? = null,
     val sellerId: Long,
